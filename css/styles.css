@@ -45,8 +45,7 @@ padding-left: 30px;
 .nested{
 
 background-color: white;
-opacity: 0.5;
-    filter: Alpha(opacity=50); /* IE8 and earlier */
+
   grid-template-columns: 1fr 1fr;
   grid-gap: 10px;
 }
